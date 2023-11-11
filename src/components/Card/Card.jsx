@@ -13,7 +13,7 @@ export default function Card() {
                             <div className='text-xl text-gray-400'>(Mainline)</div>
                             <div className='flex text-xl items-center justify-between'>
                                 <div>12 Nov - 16 Nov</div>
-                                <div>Price: 120 - 140</div>
+                                <div className=' lg:block hidden'>Price: 120 - 140</div>
                             </div>
 
                         </div>
